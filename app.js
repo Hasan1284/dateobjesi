@@ -21,3 +21,5 @@ console.log(d.getHours());
 console.log(d.getFullYear() - birthday.getFullYear());
  console.log(d);
  console.log(typeof d);
+
+ // bu sefer de number metotları çalısılacak
