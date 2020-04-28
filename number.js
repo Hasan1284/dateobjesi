@@ -29,6 +29,5 @@ let val;
 // mesela yukarıdaki yöntemle elimizdeki resimleri random olarak çağırabiliriz
 
 
-
 console.log(val);
 console.log(typeof val);
